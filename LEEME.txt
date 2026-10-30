@@ -1,0 +1,14 @@
+THE KIOSK — LITHUANIA
+Abrir index.html. HTML, CSS y JavaScript están separados.
+Footer: contact.html, faq.html y terms.html, en lituano.
+Diseño y datos: Landing.jpg aportado por la usuaria.
+Precio: 10 € (IVA incluido). Acceso: 15 días. Sin renovación automática.
+El botón conserva el texto del diseño: “Prenumeruoti”.
+El formulario valida el número y abre el compositor SMS dirigido al 1337.
+No envía el SMS, no confirma un pago y no incluye palabra clave: el mockup no la proporciona.
+Antes de publicar hay que confirmar el destino final del botón y la palabra clave del SMS, si procede.
+El mockup incluye support@thekiosk.co y support@thekiosk.com. Se conservan ambos.
+Las páginas informativas reflejan los datos aportados; no se han importado las condiciones genéricas de suscripción de otra oferta.
+Verificación: enlaces y assets locales, idioma lt, JavaScript y validación de número. Sin verificación visual en navegador.
+Copiar todos los archivos de esta carpeta dentro de The Kiosk\Lithuania.
+
